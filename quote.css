@@ -1,0 +1,26 @@
+body {
+  background-color: blueviolet;
+}
+
+span {
+  font-family: 'Mukta Malar', sans-serif;
+  font-size: 50px;
+}
+
+.board {
+  border-radius: 6px;
+  margin: 200px auto;
+  background-color: white;
+}
+
+p, h1 {
+  align-content: center;
+}
+
+.row {
+  margin: 20px 10px;
+}
+
+img {
+  width: 32px;
+}
